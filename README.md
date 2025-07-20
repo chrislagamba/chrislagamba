@@ -10,8 +10,6 @@ I'm currently a PhD student in a Health Data Science program at the Universidade
 
 - 🤔 I’m looking for help with signal processing/speech analysis. My thesis/dissertation work will focus on the use of speech analysis for the early detection of asthma/COPD exacerbations.
 
-- 💬 Ask me about my thesis/dissertation work!
+- 💬 Ask me about my thesis/dissertation work or what videogame I'm currently playing!
 
 - 😄 Pronouns: he/him
-
-- ⚡ Fun fact: 
