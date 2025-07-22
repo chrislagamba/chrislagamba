@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm currently a PhD student in a Health Data Science program at the Universidade do Porto. I just completed my first year of the program (14 courses!) and will be starting work on my thesis in September 2025. 
+I'm currently a PhD student in a Health Data Science program at the Universidade do Porto. I just completed my first year of the program (14 courses!) and will be starting work on my thesis/dissertation in September 2025. 
 
 - 🔭 I’m currently spending some time relaxing and enjoying life. The last few months of courses were intense.
 
